@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class Q3 {
 
     public static void main(String[] args) {
-        System.out.println("Entrada: ");
-        String stringInput = new Scanner(System.in).nextLine();
+        System.out.print("Entrada: ");
+        String stringInput = new Scanner(System.in).next();
         HashMap<String, Integer> map = new HashMap<>();
 
         for (int i = 0; i < stringInput.length(); i++) {
