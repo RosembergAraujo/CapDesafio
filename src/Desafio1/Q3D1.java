@@ -1,8 +1,9 @@
+package Desafio1;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Q3 {
+public class Q3D1 {
 
     public static void main(String[] args) {
         System.out.print("Entrada: ");

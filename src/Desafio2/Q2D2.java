@@ -1,6 +1,7 @@
+package Desafio2;
 import java.util.Scanner;
 
-public class Q2 {
+public class Q2D2 {
     public static void main(String[] args) {
         System.out.print("Entrada: ");
         String input = new Scanner(System.in).next();
