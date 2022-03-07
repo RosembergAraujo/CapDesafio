@@ -1,6 +1,7 @@
 # CapDesafio
-## Instruções de execução
-Caso esteja nas versões mais novas do JDK, basta navegar para raiz do projeto e executar o o comando para suas respectivas questões:
+## ⚙️ Instruções de execução
+
+> <b>Caso esteja nas versões mais novas do JDK, basta navegar para raiz do projeto e executar o o comando para suas respectivas questões:
 - ### Desafio 1:
     - Questão 1: `java src\Desafio1\Q1D1.java`
     - Questão 2: `java src\Desafio1\Q2D1.java`
